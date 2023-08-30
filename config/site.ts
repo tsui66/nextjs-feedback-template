@@ -12,7 +12,7 @@ export const siteConfig = {
   ],
   links: {
     twitter: "https://twitter.com/tsui_nova",
-    github: "https://github.com/tsui66/chat-with-your-customers",
-    docs: "https://github.com/tsui66/chat-with-your-customers",
+    github: "https://github.com/tsui66/nextjs-feedback-template",
+    docs: "https://github.com/tsui66/nextjs-feedback-template",
   },
 }
