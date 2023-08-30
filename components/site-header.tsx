@@ -5,7 +5,7 @@ import { Button, buttonVariants } from "@/components/ui/button"
 import { Icons } from "@/components/icons"
 import { MainNav } from "@/components/main-nav"
 import { ThemeToggle } from "@/components/theme-toggle"
-import { ContactWindow } from "./chat-window-demo"
+import { ContactWindow } from "./chat-window"
 
 export function SiteHeader() {
   return (

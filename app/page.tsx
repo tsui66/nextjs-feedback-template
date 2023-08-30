@@ -2,7 +2,7 @@ import Link from "next/link"
 
 import { siteConfig } from "@/config/site"
 import { buttonVariants } from "@/components/ui/button"
-import { ContactWindow } from "@/components/chat-window-demo"
+import { ContactWindow } from "@/components/chat-window"
 
 export default function IndexPage() {
   return (
