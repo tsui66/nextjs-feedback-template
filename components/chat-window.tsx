@@ -148,9 +148,9 @@ export function ContactWindow({
             </form>
           </Form>
         </div>
-        <DialogFooter>
+        {/* <DialogFooter>
           <></>
-        </DialogFooter>
+        </DialogFooter> */}
       </DialogContent>
     </Dialog>
   )
