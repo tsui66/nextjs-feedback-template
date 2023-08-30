@@ -5,7 +5,8 @@ Chat more effectively with your customers via email, right here on our website!
 ## Usage
 
 ```bash
-npx create-next-app -e https://github.com/shadcn/next-template
+npm i
+npm run dev
 ```
 
 ## Features
