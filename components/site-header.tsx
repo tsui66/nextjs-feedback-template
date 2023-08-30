@@ -1,10 +1,11 @@
 import Link from "next/link"
 
 import { siteConfig } from "@/config/site"
-import { buttonVariants } from "@/components/ui/button"
+import { Button, buttonVariants } from "@/components/ui/button"
 import { Icons } from "@/components/icons"
 import { MainNav } from "@/components/main-nav"
 import { ThemeToggle } from "@/components/theme-toggle"
+import { ContactWindow } from "./chat-window-demo"
 
 export function SiteHeader() {
   return (
@@ -13,6 +14,10 @@ export function SiteHeader() {
         <MainNav items={siteConfig.mainNav} />
         <div className="flex flex-1 items-center justify-end space-x-4">
           <nav className="flex items-center space-x-1">
+            <ContactWindow
+              Component={<Button variant="ghost">Contact us</Button>}
+            >
+            </ContactWindow>
             <Link
               href={siteConfig.links.github}
               target="_blank"

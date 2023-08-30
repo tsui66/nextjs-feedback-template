@@ -34,3 +34,7 @@ yarn-error.log*
 
 .contentlayer
 .env
+
+# miscellaneous
+.react-email
+.vscode
