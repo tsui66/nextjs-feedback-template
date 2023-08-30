@@ -27,8 +27,8 @@ export const sendEmail = async ({
   }
   return resend.emails.send({
     from: marketing
-      ? "Steven from Dub <steven@ship.dub.co>"
-      : "Dub <system@dub.co>",
+      ? "Tsui from Sine <tsui@sine.at>"
+      : "Tsui <system@sine.at>",
     to: test ? "delivered@resend.dev" : email,
     subject,
     react,
