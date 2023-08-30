@@ -1,6 +1,6 @@
-# next-template
+# next-feedback-template
 
-A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
+Chat more effectively with your customers via email, right here on our website!
 
 ## Usage
 
@@ -10,7 +10,9 @@ npx create-next-app -e https://github.com/shadcn/next-template
 
 ## Features
 
-- Next.js 13 App Directory
+- react.email & Resend from [react.email](https://react.email)
+- Resend from [Resend](https://resend.com/)
+- Next.js 13 App Directory Template from [shadcn-ui](https://github.com/shadcn-ui/ui)
 - Radix UI Primitives
 - Tailwind CSS
 - Icons from [Lucide](https://lucide.dev)
@@ -19,4 +21,4 @@ npx create-next-app -e https://github.com/shadcn/next-template
 
 ## License
 
-Licensed under the [MIT license](https://github.com/shadcn/ui/blob/main/LICENSE.md).
+Licensed under the [MIT license](https://github.com/tsui66/nextjs-feedback-template/blob/main/LICENSE).
