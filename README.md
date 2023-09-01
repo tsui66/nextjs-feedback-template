@@ -2,6 +2,8 @@
 
 Chat more effectively with your customers via email, right here on our website!
 
+![Alt text](./public/feedback-og.png)
+
 ## Usage
 
 ```bash
